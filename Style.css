@@ -1,0 +1,32 @@
+#Iqbal {font-family:'Bebas';}
+#Fontjumbo {font-family:'Bebas';
+            color: rgba(210, 230, 226, 0.774);}
+.jumbotron{
+    background-image: url(img/9.jpg);
+    background-size: 2000px;
+    
+}
+.jumbotron img {
+    padding: 0px;
+}
+hr{
+    width: 250px;
+    border-top: 3px solid #240f0b;
+}
+
+section{
+    min-height: 600px;
+}
+#certificate{
+    background-color: #eee ;
+    padding: 20px;
+}
+#certificate img {
+    max-width: 370px;
+    border: 1px solid #240f0b;
+    padding: 0px;
+}
+
+.carousel-item {
+    height: 400px;
+}
